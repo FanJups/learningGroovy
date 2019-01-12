@@ -22,4 +22,6 @@ https://www.google.com/search?q=how+to+create+groovy+project+in+eclipse&oq=how+t
 
 https://www.ibm.com/support/knowledgecenter/pt-br/SSQVNT_3.8.0/ilog.odms.ide.odm.enterprise.help/ODME/Config/topics/enablinggroovy.html
 
+https://www.ibm.com/support/knowledgecenter/pt-br/SSQVNT_3.8.0/ilog.odms.ide.odm.enterprise.help/ODME/Installation/topics/groovyinstallation.html
+
 
