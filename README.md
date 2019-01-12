@@ -41,3 +41,17 @@ It is important to choose the link corresponding to the version of eclipse in th
 
 https://www.function1.com/2016/06/installing-eclipse-groovy-plugin
 
+groovy plugin for spring tool suite
+
+https://www.google.com/search?q=groovy+plugin+for+spring+tool+suite&oq=groovy+plugin+for+spring+&aqs=chrome.1.69i57j0.39972j1j7&sourceid=chrome&ie=UTF-8
+
+groovy plugin for spring tool suite 4
+
+https://www.google.com/search?ei=v0E6XIu4MbyKjLsP5sKwuA0&q=groovy+plugin+for+spring+tool+suite+4&oq=groovy+plugin+for+spring+tool+suite+4&gs_l=psy-ab.3..33i160.8228.8436..9185...0.0..0.488.844.3-1j1......0....1..gws-wiz.......0i71j0i22i30.vElKPky7NOk
+
+https://spring.io/blog/2015/03/11/spring-tool-suite-and-groovy-grails-tool-suite-3-6-4-released
+
+https://github.com/groovy/groovy-eclipse/issues/284
+
+ http://dist.springsource.org/snapshot/GRECLIPSE/e4.5
+
