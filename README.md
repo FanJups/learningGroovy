@@ -16,4 +16,10 @@ This is also useful
 
 https://subscription.packtpub.com/book/application_development/9781849519366/1/ch01lvl1sec12/executing-groovy-code-from-the-command-line
 
+how to create groovy project in eclipse
+
+https://www.google.com/search?q=how+to+create+groovy+project+in+eclipse&oq=how+to+create+gRoovy+&aqs=chrome.3.69i57j0l5.26097j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.ibm.com/support/knowledgecenter/pt-br/SSQVNT_3.8.0/ilog.odms.ide.odm.enterprise.help/ODME/Config/topics/enablinggroovy.html
+
 
