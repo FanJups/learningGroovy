@@ -56,4 +56,8 @@ https://github.com/groovy/groovy-eclipse/issues/284
  http://dist.springsource.org/snapshot/GRECLIPSE/e4.5
  
  https://marketplace.eclipse.org/content/groovy-development-tools
+ 
+ Before adding Groovy, maybe install this first : Eclipse Java Development Tools
+ 
+ https://marketplace.eclipse.org/content/eclipse-java-development-tools-0
 
