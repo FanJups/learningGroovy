@@ -59,5 +59,12 @@ https://github.com/groovy/groovy-eclipse/issues/284
  
  Before adding Groovy, maybe install this first : Eclipse Java Development Tools
  
+ 
  https://marketplace.eclipse.org/content/eclipse-java-development-tools-0
+ 
+ I succeed to install Groovy on Eclipse using this link :
+ 
+ https://github.com/groovy/groovy-eclipse/wiki
+ 
+ 
 
