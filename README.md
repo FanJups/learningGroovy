@@ -54,4 +54,6 @@ https://spring.io/blog/2015/03/11/spring-tool-suite-and-groovy-grails-tool-suite
 https://github.com/groovy/groovy-eclipse/issues/284
 
  http://dist.springsource.org/snapshot/GRECLIPSE/e4.5
+ 
+ https://marketplace.eclipse.org/content/groovy-development-tools
 
