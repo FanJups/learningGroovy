@@ -66,5 +66,7 @@ https://github.com/groovy/groovy-eclipse/issues/284
  
  https://github.com/groovy/groovy-eclipse/wiki
  
+ I succeed to install Groovy on Spring Tools Suite 4, release 4.1.0 using  Eclipse Market Place : Groovy Development Tools 3.3.0.SNAPSHOT
+ 
  
 
